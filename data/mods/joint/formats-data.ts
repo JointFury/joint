@@ -182,9 +182,9 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "Illegal",
 	},
 	pikachu: {
-		tier: "ZU",
+		tier: "OU",
 		doublesTier: "(DUU)",
-		natDexTier: "RU",
+		natDexTier: "OU",
 	},
 	pikachucosplay: {
 		isNonstandard: "Past",
